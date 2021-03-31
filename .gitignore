@@ -49,12 +49,12 @@ bin
 !**/application-dev.properties
 !**/application-dev-secret.properties
 
-# Mac #
-.DS_Store
-
 # build #
 /src/asciidoc/build
 
 # Code #
 !**/src/main/**
 !**/src/test/**
+
+# Mac #
+.DS_Store
